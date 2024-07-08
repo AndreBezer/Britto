@@ -1,7 +1,7 @@
 import telebot as tb
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-chave = "6332233970:AAHDxrOHak-Uss-f19_u7-GXypqrJfYq81E"
+chave = "Sua_chave_telegram"
 bot = tb.TeleBot(chave)
 
 def link():
